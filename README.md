@@ -27,3 +27,7 @@ python attendance_marking_test.py
 This repository demonstrates version control using Git and
 GitHub, including staging, commits, pushing, pulling,
 and viewing commit history.
+
+## Team Collaboration
+The team uses Git and GitHub to maintain test scripts,
+review changes, and share updates between QA engineers.
