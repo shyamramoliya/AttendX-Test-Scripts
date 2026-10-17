@@ -5,6 +5,7 @@ def test_login():
 
     if username and password:
         print("Login test: PASS")
+        print("Login input validation completed.")
     else:
         print("Login test: FAIL")
 
